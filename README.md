@@ -8,5 +8,5 @@ In this lab, we'll start up a RADIUS server on port 1812. RADIUS supplies centra
 <h2>Process</h2>
 We'll start by using IdBlender to create a public RADIUS server.
 <br />
-<img src="https://imgur.com/TxvSUGH" alt="public RADIUS server" />
-<img src="https://imgur.com/3Ujf66l" alt="credentials in RADIUS server" />
+<img src="https://imgur.com/TxvSUGH" alt="public RADIUS server"/>
+<img src="https://imgur.com/3Ujf66l" alt="credentials in RADIUS server"/>
